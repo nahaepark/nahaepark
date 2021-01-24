@@ -22,10 +22,9 @@
 
 <h3 align="center">😎 ME 😎</h3>
 <p align="center">
-
-[![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@j20park/)](https://velog.io/@j20park/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyoungchristinepark/)](https://www.linkedin.com/in/jiyoungchristinepark/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jen3651@gmail.com)](mailto:jen3651@gmail.com)
+<a href="https://velog.io/@j20park/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@j20park/"/></a>&nbsp
+<a href="https://www.linkedin.com/in/jiyoungchristinepark/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyoungchristinepark/"/></a>&nbsp
+<a href="mailto:jen3651@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jen3651@gmail.com/"/></a>&nbsp
 </p>
 
 <!--
