@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FECCA2&height=300&section=header&text=Ji%20Young%20Park&fontSize=90)
 
-#### Hi there 👋
 <h3 align="center">🛠 TECH STACK 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -19,11 +18,15 @@
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=Google-Analytics&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
-
-
-
 </p>
 
+<h3 align="center">😎 ME 😎</h3>
+<p align="center">
+
+[![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@j20park/)](https://velog.io/@j20park/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyoungchristinepark/)](https://www.linkedin.com/in/jiyoungchristinepark/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jen3651@gmail.com)](mailto:jen3651@gmail.com)
+</p>
 
 <!--
 **nahaepark/nahaepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
