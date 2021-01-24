@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">😎 ME 😎</h3>
+<h3 align="center">😎 ABOUT ME 😎</h3>
 <p align="center">
 <a href="https://velog.io/@j20park/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@j20park/"/></a>&nbsp
 <a href="https://www.linkedin.com/in/jiyoungchristinepark/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyoungchristinepark/"/></a>&nbsp
