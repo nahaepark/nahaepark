@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FECCA2&height=300&section=header&text=Ji%20Young%20Park&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FECCA2&height=220&section=header&text=Ji%20Young%20Park&fontSize=70)
 
 <h3 align="center">🛠 TECH STACK 🛠</h3>
 
