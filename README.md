@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FECCA2&height=220&section=header&text=Ji%20Young%20Park&fontSize=70)
-
 <h3 align="center">🛠 TECH STACK 🛠</h3>
-
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
